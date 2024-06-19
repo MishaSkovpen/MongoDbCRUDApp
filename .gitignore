@@ -1,0 +1,80 @@
+# .NET Core
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.user
+*.userosscache
+*.sln.docstates
+*.vspscc
+.vscode/
+
+# Visual Studio
+.vscode/
+.vscode/**
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Logs
+*.log
+logs/
+
+# NPM packages
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Core
+appsettings*.json
+secret.json
+
+# Resharper
+_ReSharper.Caches
+
+# External libraries
+lib/
+libs/
+
+# Other
+*~
+
+# Include if using .NET Core web projects
+.env
+.env.*
+.env.*.local
+.env.local
+
+# Visual Studio Code Extensions
+.vscode/extensions.json
+.vscode/settings.json
+.vscode/tasks.json
